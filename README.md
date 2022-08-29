@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilesh
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning erp tools & softwares.
+- 🌱 I’m currently learning ERP Tools & Softwares.
 - 💞️ I’m looking to collaborate on ERP Customizations & Solutions.
 - 📫 You can reach me at nilesh@8848digital.com
 
